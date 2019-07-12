@@ -1,0 +1,1434 @@
+ 
+ Directory of \Windows Leaked Source
+
+07/12/2019  10:37 AM                 0 listing.txt
+07/12/2019  10:35 AM               112 win10leaks.txt
+               2 File(s)            112 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\ppt
+
+03/20/1997  04:49 AM            11,708 fy92.ppt
+07/25/2000  08:34 PM            45,056 ie4brwsr.ppt
+03/20/1997  02:26 AM           343,040 isapibas.ppt
+03/20/1997  02:23 AM           220,672 jimall.ppt
+03/20/1997  02:23 AM           758,784 jimall1.ppt
+03/20/1997  02:23 AM         1,206,784 jimall2.ppt
+03/20/1997  02:23 AM            59,392 jimall3.ppt
+03/20/1997  02:23 AM            55,296 jimall4.ppt
+03/20/1997  02:23 AM           176,128 jimall5.ppt
+03/20/1997  02:23 AM            89,088 jimall7.ppt
+03/20/1997  02:33 AM            19,491 msgdata.ppt
+03/20/1997  02:57 AM            12,804 novell1.ppt
+03/20/1997  02:44 AM            29,696 ntfs.ppt
+03/20/1997  04:49 AM            21,060 pownt.ppt
+03/20/1997  02:23 AM            52,736 sarc1.ppt
+07/25/2000  08:34 PM           190,464 sh_arch.ppt
+03/20/1997  02:23 AM         1,746,944 slides1.ppt
+07/26/2000  03:57 PM           408,576 srgbmath.ppt
+03/20/1997  02:23 AM         3,887,616 teched95.ppt
+03/20/1997  06:07 AM            13,321 windisk.ppt
+              20 File(s)      9,348,656 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\build\scripts\setup
+
+07/25/2000  08:12 PM             4,484 trident.inf
+               1 File(s)          4,484 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\build\scripts\setup\debug
+
+07/25/2000  08:12 PM             4,542 trident.inf
+               1 File(s)          4,542 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\build\scripts\setup\ship
+
+07/25/2000  08:12 PM             4,481 trident.inf
+               1 File(s)          4,481 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\dead\site\dfrm
+
+07/25/2000  08:12 PM             3,584 datafld.ppg
+07/25/2000  08:12 PM             4,096 datafrm.ppg
+07/25/2000  08:12 PM             4,608 layout.ppg
+               3 File(s)         12,288 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\imgfilt\giffilt
+
+07/25/2000  08:12 PM               844 selfreg.inf
+               1 File(s)            844 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\imgfilt\imgutil
+
+07/25/2000  08:12 PM             1,300 minreg.inf
+07/25/2000  08:12 PM             1,877 selfreg.inf
+               2 File(s)          3,177 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\imgfilt\jpegfilt
+
+07/25/2000  08:12 PM             1,030 selfreg.inf
+               1 File(s)          1,030 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\imgfilt\pngfilt
+
+07/25/2000  08:12 PM             1,085 selfreg.inf
+               1 File(s)          1,085 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\imgfilt\wmffilt
+
+07/25/2000  08:12 PM               848 selfreg.inf
+               1 File(s)            848 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\inet\mshtml\src\f3\rsrc
+
+07/25/2000  08:13 PM               347 backgrnd.ppg
+07/25/2000  08:13 PM             1,167 docsec.ppg
+               2 File(s)          1,514 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ispu\pkitrust\performance\fileset\drivers
+
+07/25/2000  08:23 PM             2,051 ie4files.inf
+07/25/2000  08:23 PM            23,345 other.inf
+07/25/2000  08:23 PM             2,571 softboot.inf
+               3 File(s)         27,967 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ispu\pkitrust\tests\catalogs\drvsign
+
+07/25/2000  08:23 PM             9,409 good.inf
+07/25/2000  08:23 PM                17 msports.inf
+               2 File(s)          9,426 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\aug98\dll32
+
+07/26/2000  03:57 PM             3,045 icmdll.plg
+               1 File(s)          3,045 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\aug98\test
+
+07/26/2000  03:57 PM             2,457 test.plg
+               1 File(s)          2,457 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\dec97\dll32
+
+07/26/2000  03:57 PM             2,053 icmdll.plg
+               1 File(s)          2,053 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\dec97\test
+
+07/26/2000  03:57 PM             1,901 test.plg
+               1 File(s)          1,901 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\jan99\dll32
+
+07/26/2000  03:57 PM             3,045 icmdll.plg
+               1 File(s)          3,045 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\jul98\dll32
+
+07/26/2000  03:57 PM             2,424 icmdll.plg
+               1 File(s)          2,424 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\adobe\jul98\test
+
+07/26/2000  03:57 PM             2,457 test.plg
+               1 File(s)          2,457 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\docs
+
+03/20/1997  04:49 AM            11,708 fy92.ppt
+07/25/2000  08:34 PM            45,056 ie4brwsr.ppt
+03/20/1997  02:26 AM           343,040 isapibas.ppt
+03/20/1997  02:23 AM           220,672 jimall.ppt
+03/20/1997  02:23 AM           758,784 jimall1.ppt
+03/20/1997  02:23 AM         1,206,784 jimall2.ppt
+03/20/1997  02:23 AM            59,392 jimall3.ppt
+03/20/1997  02:23 AM            55,296 jimall4.ppt
+03/20/1997  02:23 AM           176,128 jimall5.ppt
+03/20/1997  02:23 AM            89,088 jimall7.ppt
+03/20/1997  02:33 AM            19,491 msgdata.ppt
+03/20/1997  02:57 AM            12,804 novell1.ppt
+03/20/1997  02:44 AM            29,696 ntfs.ppt
+03/20/1997  04:49 AM            21,060 pownt.ppt
+03/20/1997  02:23 AM            52,736 sarc1.ppt
+07/25/2000  08:34 PM           190,464 sh_arch.ppt
+03/20/1997  02:23 AM         1,746,944 slides1.ppt
+07/26/2000  03:57 PM           408,576 srgbmath.ppt
+              18 File(s)      5,447,719 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\ntos\w32\ntgdi\icm\profiles
+
+07/26/2000  03:57 PM               624 icminst.inf
+               1 File(s)            624 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\sdktools\vctools\rcdll
+
+07/25/2000  08:33 PM               168 pkeyw.inf
+               1 File(s)            168 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell
+
+07/25/2000  08:34 PM             1,074 debw95.inf
+07/25/2000  08:35 PM            11,690 pageonnt.inf
+07/25/2000  08:35 PM             1,279 retail.inf
+07/25/2000  08:35 PM               955 retw95.inf
+07/25/2000  08:36 PM             2,926 shdocvw.inf
+               5 File(s)         17,924 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\applets\welcome\res
+
+07/25/2000  08:34 PM           668,440 music.wav
+               1 File(s)        668,440 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\cpls\srvwiz
+
+07/25/2000  08:34 PM             3,782 selfreg.inf
+               1 File(s)          3,782 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\docs
+
+07/25/2000  08:34 PM            45,056 ie4brwsr.ppt
+07/25/2000  08:34 PM           120,320 menubands.vsd
+07/25/2000  08:34 PM           190,464 sh_arch.ppt
+               3 File(s)        355,840 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\anyfldr
+
+07/25/2000  08:34 PM             1,797 anyfldr.inf
+               1 File(s)          1,797 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\cabview
+
+07/25/2000  08:34 PM             1,637 cabview.inf
+07/25/2000  08:34 PM             2,050 selfreg.inf
+               2 File(s)          3,687 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\cscui\lib
+
+07/25/2000  08:35 PM             5,498 cscui.inf
+               1 File(s)          5,498 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\dsui\cmnquery
+
+07/25/2000  08:35 PM               374 selfreg.inf
+               1 File(s)            374 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\dsui\dsfolder
+
+07/25/2000  08:35 PM             3,105 selfreg.inf
+               1 File(s)          3,105 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\dsui\dsquery
+
+07/25/2000  08:35 PM             4,325 selfreg.inf
+               1 File(s)          4,325 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\dsui\dsuiext
+
+07/25/2000  08:35 PM             2,647 selfreg.inf
+               1 File(s)          2,647 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\dsui\samples\qform
+
+07/25/2000  08:35 PM             1,619 selfreg.inf
+               1 File(s)          1,619 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\ftp
+
+07/25/2000  08:35 PM             1,617 msieftp.inf
+07/25/2000  08:35 PM             4,570 selfreg_msieftp.inf
+               2 File(s)          6,187 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\inetfind
+
+07/25/2000  08:35 PM             1,478 inetfind.inf
+               1 File(s)          1,478 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\intern
+
+07/25/2000  08:35 PM             1,022 intern.inf
+06/23/1998  03:49 AM             2,481 selfreg.inf
+               2 File(s)          3,503 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\msident
+
+07/25/2000  08:35 PM               392 selfreg.inf
+               1 File(s)            392 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\mydocs\inf
+
+07/12/1997  03:09 AM             2,578 mydocs.inf
+               1 File(s)          2,578 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\mydocs\src
+
+05/11/1998  11:05 PM             3,454 selfreg.inf
+               1 File(s)          3,454 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\pack
+
+07/25/2000  08:35 PM             2,192 selfreg.inf
+               1 File(s)          2,192 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\ratings\msrating
+
+07/25/2000  08:35 PM               338 retail.inf
+07/25/2000  08:35 PM               906 selfreg_ratings.inf
+               2 File(s)          1,244 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\ratings\npstub
+
+07/25/2000  08:35 PM             2,720 netfam.inf
+               1 File(s)          2,720 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\shfolder
+
+07/25/2000  08:35 PM               434 shfolder.inf
+               1 File(s)            434 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\tweakui
+
+07/25/2000  08:35 PM             2,596 tweakui.inf
+               1 File(s)          2,596 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\viruschk\install
+
+07/25/2000  08:35 PM             1,465 selfreg.inf
+               1 File(s)          1,465 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\ext\walk
+
+07/25/2000  08:35 PM             1,287 walk.plg
+               1 File(s)          1,287 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\iexplore\vbtest
+
+07/25/2000  08:35 PM             1,087 project1.vbp
+               1 File(s)          1,087 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\iexplore\vbviewer
+
+07/25/2000  08:35 PM             1,083 vbviewer.vbp
+               1 File(s)          1,083 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\shdocvw
+
+07/25/2000  08:36 PM             2,772 anchbrws.ppg
+07/25/2000  08:36 PM             6,252 docbrows.ppg
+07/25/2000  08:36 PM             4,987 imgbrows.ppg
+               3 File(s)         14,011 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\shell32
+
+07/25/2000  08:36 PM            10,285 noopenlist.inf
+               1 File(s)         10,285 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\tools\extwiz
+
+07/25/2000  08:36 PM             3,346 ext.plg
+               1 File(s)          3,346 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\shell\tools\extwiz\template
+
+07/25/2000  08:36 PM               940 confirm.inf
+07/25/2000  08:36 PM             1,435 newproj.inf
+               2 File(s)          2,375 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\opengl\scrsave\text3d
+
+07/25/2000  09:00 PM            14,681 default.str
+07/25/2000  09:00 PM               178 default2.str
+               2 File(s)         14,859 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\accesory\netclip\setup
+
+07/25/2000  09:05 PM             1,051 netclip.inf
+               1 File(s)          1,051 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\accesory\uce\getuname
+
+07/25/2000  09:05 PM           337,960 unames.str
+               1 File(s)        337,960 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\accesory\winchat
+
+07/25/2000  09:05 PM            10,026 ringin.wav
+07/25/2000  09:05 PM             5,212 ringout.wav
+               2 File(s)         15,238 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\accessib\osk\res
+
+07/25/2000  09:05 PM             4,616 clickdwn.wav
+07/25/2000  09:05 PM             3,462 clickup.wav
+07/25/2000  09:05 PM            13,026 utopiaex.wav
+               3 File(s)         21,104 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\cpls\appmgr\pubquery
+
+07/25/2000  09:06 PM               438 selfreg.inf
+               1 File(s)            438 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\dskquota\control
+
+07/25/2000  09:06 PM             4,793 selfreg.inf
+               1 File(s)          4,793 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\dskquota\ui
+
+07/25/2000  09:06 PM             2,330 selfreg.inf
+               1 File(s)          2,330 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\lmui\shareui
+
+07/25/2000  09:06 PM             2,070 shareui.inf
+               1 File(s)          2,070 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\lmui\shareui.new
+
+07/25/2000  09:06 PM             1,726 shareui.inf
+               1 File(s)          1,726 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\security\dssec
+
+07/25/2000  09:06 PM               955 dssec.inf
+               1 File(s)            955 bytes
+
+ Directory of \Windows Leaked Source\windows_2000_source_code\win2k\private\windows\shell\security\rshx32
+
+07/25/2000  09:06 PM             1,311 rshx32.inf
+07/25/2000  09:06 PM               954 rshx32_5.inf
+               2 File(s)          2,265 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\alphachk
+
+03/20/1997  01:33 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\alphafre
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\mipschk
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\mipsfre
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\ppcchk
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\ppcfre
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\x86chk
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\developr\x86fre
+
+03/20/1997  01:34 AM             1,020 cue.pri
+               1 File(s)          1,020 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\inet\ohnt\setupnt
+
+03/20/1997  02:06 AM            77,174 ie351.inf
+03/20/1997  02:06 AM           118,262 ie351fe.inf
+03/20/1997  02:06 AM            29,580 oharent.inf
+03/20/1997  02:06 AM            74,473 setupie.inf
+03/20/1997  02:06 AM            11,799 subroutn.inf
+               5 File(s)        311,288 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\mvdm\dos\v86\cmd\graphics
+
+03/20/1997  02:07 AM             5,346 grctrl.str
+03/20/1997  02:07 AM             5,705 grpattrn.str
+03/20/1997  02:07 AM             8,912 grshar.str
+               3 File(s)         19,963 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\mvdm\fax
+
+03/20/1997  02:08 AM            11,661 printer.inf
+               1 File(s)         11,661 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\netcmd\help
+
+03/20/1997  02:13 AM           141,836 net.tot
+               1 File(s)        141,836 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\netcmd\map32
+
+03/20/1997  02:13 AM            10,838 32macro.tot
+               1 File(s)         10,838 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ras\src\common\inc
+
+03/20/1997  02:15 AM           254,263 modem.inf
+03/20/1997  02:15 AM           261,408 modemj.inf
+03/20/1997  02:15 AM            14,535 pad.inf
+03/20/1997  02:15 AM             6,205 switch.inf
+               4 File(s)        536,411 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ras\src\ui\admin\rasadmin\xlate
+
+03/20/1997  02:17 AM             8,696 rasadmin.str
+               1 File(s)          8,696 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ras\src\ui\setup\xlate
+
+03/20/1997  02:17 AM            13,124 portscfg.str
+               1 File(s)         13,124 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sfm\afp\ui\xlate
+
+03/20/1997  02:18 AM            11,870 afpmgr.str
+               1 File(s)         11,870 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sfm\macprint\monitor
+
+03/20/1997  02:19 AM             1,274 atalkmon.str
+               1 File(s)          1,274 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sfm\setup\infs
+
+03/20/1997  02:20 AM            78,822 oemsetup.inf
+03/20/1997  02:20 AM             2,846 sfmicons.inf
+03/20/1997  02:20 AM             7,546 sfmmap.inf
+               3 File(s)         89,214 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sfm\setup\lt200
+
+03/20/1997  02:20 AM            18,964 oemnadlm.inf
+03/20/1997  02:20 AM            19,547 oemnadlt.inf
+               2 File(s)         38,511 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sfm\setup\src\xlate
+
+03/20/1997  02:20 AM             3,555 atconfig.str
+               1 File(s)          3,555 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\h.srv\sampsite
+
+03/20/1997  02:21 AM            15,768 balo.wav
+03/20/1997  02:21 AM            70,916 drums.wav
+               2 File(s)         86,684 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\h.wks\sampsite
+
+03/20/1997  02:21 AM            70,916 drums.wav
+               1 File(s)         70,916 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\spec
+
+03/20/1997  02:23 AM           220,672 jimall.ppt
+03/20/1997  02:23 AM           758,784 jimall1.ppt
+03/20/1997  02:23 AM         1,206,784 jimall2.ppt
+03/20/1997  02:23 AM            59,392 jimall3.ppt
+03/20/1997  02:23 AM            55,296 jimall4.ppt
+03/20/1997  02:23 AM           176,128 jimall5.ppt
+03/20/1997  02:23 AM            89,088 jimall7.ppt
+03/20/1997  02:23 AM            52,736 sarc1.ppt
+03/20/1997  02:23 AM         1,746,944 slides1.ppt
+03/20/1997  02:23 AM         3,887,616 teched95.ppt
+              10 File(s)      8,253,440 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\svcs\w3\gateways\htmla\scriptsl
+
+03/20/1997  02:25 AM            14,979 htmla.inf
+               1 File(s)         14,979 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\svcs\w3\pdc96
+
+03/20/1997  02:26 AM           343,040 isapibas.ppt
+               1 File(s)        343,040 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\html\samples\sampsite
+
+03/20/1997  02:26 AM            15,768 balo.wav
+03/20/1997  02:26 AM            70,916 drums.wav
+               2 File(s)         86,684 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\html.wks\samples\sampsite
+
+03/20/1997  02:26 AM            70,916 drums.wav
+               1 File(s)         70,916 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\inf
+
+03/20/1997  02:28 AM               633 inet.inf
+03/20/1997  02:28 AM             1,870 internet.inf
+03/20/1997  02:28 AM             4,488 internet.stf
+               3 File(s)          6,991 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\odbc\x86
+
+03/20/1997  02:28 AM             2,622 odbc.inf
+               1 File(s)          2,622 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\odbc\x86\odbc
+
+03/20/1997  02:28 AM             2,616 odbc.inf
+               1 File(s)          2,616 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\qfe
+
+03/20/1997  02:28 AM            26,664 install.inf
+               1 File(s)         26,664 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.acc\alpha
+
+03/20/1997  02:29 AM             2,973 inetstp.inf
+03/20/1997  02:29 AM             1,964 odbc.inf
+               2 File(s)          4,937 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.acc\i386
+
+03/20/1997  02:29 AM             2,967 inetstp.inf
+03/20/1997  02:29 AM            12,294 odbc.inf
+03/20/1997  02:29 AM            14,105 x.inf
+               3 File(s)         29,366 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.acc\mips
+
+03/20/1997  02:29 AM             2,973 inetstp.inf
+03/20/1997  02:29 AM             1,988 odbc.inf
+               2 File(s)          4,961 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.acc\ppc
+
+03/20/1997  02:29 AM             2,976 inetstp.inf
+03/20/1997  02:29 AM             1,962 odbc.inf
+               2 File(s)          4,938 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.srv\alpha
+
+03/20/1997  02:29 AM            21,999 inetstp.inf
+03/20/1997  02:29 AM            20,218 inetstpw.inf
+03/20/1997  02:29 AM             1,964 odbc.inf
+03/20/1997  02:29 AM            13,080 oemnsvin.inf
+03/20/1997  02:29 AM            13,082 oemnw.inf
+               5 File(s)         70,343 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.srv\i386
+
+03/20/1997  02:29 AM            22,054 inetstp.inf
+03/20/1997  02:29 AM            20,273 inetstpw.inf
+03/20/1997  02:29 AM            12,294 odbc.inf
+03/20/1997  02:29 AM            13,079 oemnsvin.inf
+03/20/1997  02:29 AM            13,081 oemnw.inf
+03/20/1997  02:29 AM            14,105 x.inf
+               6 File(s)         94,886 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.srv\mips
+
+03/20/1997  02:29 AM            21,999 inetstp.inf
+03/20/1997  02:29 AM            20,218 inetstpw.inf
+03/20/1997  02:29 AM             1,988 odbc.inf
+03/20/1997  02:29 AM            13,079 oemnsvin.inf
+               4 File(s)         57,284 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.srv\ppc
+
+03/20/1997  02:29 AM            21,999 inetstp.inf
+03/20/1997  02:29 AM            20,218 inetstpw.inf
+03/20/1997  02:29 AM             1,962 odbc.inf
+03/20/1997  02:29 AM            13,078 oemnsvin.inf
+03/20/1997  02:29 AM            13,080 oemnw.inf
+               5 File(s)         70,337 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.w16\admin
+
+03/20/1997  02:29 AM                32 insetup.inf
+               1 File(s)             32 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\setup.w16\clients
+
+03/20/1997  02:29 AM                35 insetup.inf
+               1 File(s)             35 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\internet\ui\setup\wfw.dll
+
+03/20/1997  02:29 AM             1,407 beta.inf
+03/20/1997  02:29 AM             3,309 beta.stf
+03/20/1997  02:29 AM            15,225 interacc.inf
+03/20/1997  02:29 AM            15,183 internet.inf
+03/20/1997  02:29 AM             3,995 internet.stf
+               5 File(s)         39,119 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\sockets\wins
+
+03/20/1997  02:30 AM            24,769 oemnxpwi.inf
+               1 File(s)         24,769 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\svcdlls\msgsvc\docs
+
+03/20/1997  02:33 AM            19,491 msgdata.ppt
+               1 File(s)         19,491 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\acledit\xlate
+
+03/20/1997  02:34 AM            17,894 perm.str
+               1 File(s)         17,894 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\browmon\xlate
+
+03/20/1997  02:34 AM             1,276 browmon.str
+               1 File(s)          1,276 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\common\xlate
+
+03/20/1997  02:34 AM               671 propdlg.str
+               1 File(s)            671 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\eventvwr\xlate
+
+03/20/1997  02:34 AM             4,758 alertmsg.str
+03/20/1997  02:34 AM             3,550 audlog.str
+03/20/1997  02:34 AM            12,293 errlog.str
+03/20/1997  02:34 AM             4,821 eventvwr.str
+03/20/1997  02:34 AM             5,259 ncberr.str
+03/20/1997  02:34 AM             3,380 service.str
+               6 File(s)         34,061 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\nlmon\xlate
+
+03/20/1997  02:35 AM             2,575 nlmon.str
+               1 File(s)          2,575 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\rplmgr\xlate
+
+03/20/1997  02:35 AM             9,224 rplmgr.str
+               1 File(s)          9,224 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\server\xlate
+
+03/20/1997  02:35 AM            27,366 srvmgr.str
+               1 File(s)         27,366 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\admin\user\xlate
+
+03/20/1997  02:35 AM               886 auditdlg.str
+03/20/1997  02:35 AM               758 rights.str
+03/20/1997  02:35 AM               861 secset.str
+03/20/1997  02:35 AM             1,207 trust.str
+03/20/1997  02:35 AM            18,784 usrmgr.str
+03/20/1997  02:35 AM               769 vlw.str
+               6 File(s)         23,265 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\common\src\blt\test\xdmap
+
+03/20/1997  02:36 AM               496 testdmap.str
+               1 File(s)            496 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\common\src\blt\test\xpopup
+
+03/20/1997  02:36 AM               249 testmsg.str
+               1 File(s)            249 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\common\src\misc\test\xlog
+
+03/20/1997  02:37 AM             3,824 audlog.str
+03/20/1997  02:37 AM            12,293 errlog.str
+03/20/1997  02:37 AM             5,259 ncberr.str
+               3 File(s)         21,376 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\common\xlate\string
+
+03/20/1997  02:38 AM             1,520 applib.str
+03/20/1997  02:38 AM             3,329 blt.str
+03/20/1997  02:38 AM             2,814 bseerr.str
+03/20/1997  02:38 AM               931 lmobj.str
+03/20/1997  02:38 AM            18,637 neterr.str
+               5 File(s)         27,231 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ftpmgr\xlate
+
+03/20/1997  02:38 AM             1,690 ftpmgr.str
+               1 File(s)          1,690 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\mpr\xlate
+
+03/20/1997  02:40 AM             4,544 mpr.str
+               1 File(s)          4,544 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ncpa\sp
+
+03/20/1997  02:41 AM             2,743 prmesg.str
+               1 File(s)          2,743 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ncpa\sptest
+
+03/20/1997  02:41 AM               165 sprolog.inf
+               1 File(s)            165 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ncpa\tcpip\xlate
+
+03/20/1997  02:41 AM             1,939 snmp.str
+03/20/1997  02:41 AM            10,672 string.str
+               2 File(s)         12,611 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ncpa\xlate
+
+03/20/1997  02:41 AM               166 getbus.str
+03/20/1997  02:41 AM             2,680 prmesg.str
+03/20/1997  02:41 AM               391 snmp.str
+03/20/1997  02:41 AM               414 sprolog.str
+               4 File(s)          3,651 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ncpa1.1\sp
+
+03/20/1997  02:41 AM             2,743 prmesg.str
+               1 File(s)          2,743 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\ncpa1.1\sptest
+
+03/20/1997  02:42 AM               165 sprolog.inf
+               1 File(s)            165 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\nwc\xlate
+
+03/20/1997  02:42 AM             2,886 nwc.str
+               1 File(s)          2,886 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\shell\doc
+
+03/20/1997  02:42 AM             3,575 printman.rvw
+03/20/1997  02:42 AM             3,384 winprof.rvw
+               2 File(s)          6,959 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\net\ui\shellui\xlate
+
+03/20/1997  02:43 AM               460 opens.str
+03/20/1997  02:43 AM               651 perm.str
+03/20/1997  02:43 AM             4,623 share.str
+               3 File(s)          5,734 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\cntfs\spec
+
+03/20/1997  02:44 AM            29,696 ntfs.ppt
+               1 File(s)         29,696 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\miniport\qlogic
+
+03/20/1997  02:50 AM            18,696 oemsetup.inf
+               1 File(s)         18,696 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\ndis\htdsu
+
+03/20/1997  02:51 AM            49,274 oemsetnt.inf
+               1 File(s)         49,274 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\ndis\irmini
+
+03/20/1997  02:51 AM            46,074 oemsetup.inf
+               1 File(s)         46,074 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\rdr
+
+03/20/1997  02:57 AM            12,804 novell1.ppt
+               1 File(s)         12,804 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\tdi\st
+
+03/20/1997  04:18 AM            16,384 oemnxpts.inf
+               1 File(s)         16,384 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\ati
+
+03/20/1997  04:18 AM            13,558 ati.inf
+               1 File(s)         13,558 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\cirrus
+
+03/20/1997  04:18 AM             2,090 cirrus.inf
+               1 File(s)          2,090 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\mga
+
+03/20/1997  04:19 AM            13,484 mga.inf
+               1 File(s)         13,484 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\psidisp
+
+03/20/1997  04:19 AM             2,094 psidisp.inf
+               1 File(s)          2,094 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\qv
+
+03/20/1997  04:19 AM            13,664 qv.inf
+               1 File(s)         13,664 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\s3
+
+03/20/1997  04:19 AM            14,242 diamond.inf
+03/20/1997  04:19 AM            13,496 number9.inf
+               2 File(s)         27,738 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\tga
+
+03/20/1997  04:19 AM            13,397 tga.inf
+               1 File(s)         13,397 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\videosim
+
+03/20/1997  04:19 AM            13,826 videosim.inf
+               1 File(s)         13,826 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\video\weitekp9
+
+03/20/1997  04:19 AM            13,438 weitek.inf
+               1 File(s)         13,438 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\w32\ntgdi\direct\ddapps\roids
+
+03/20/1997  04:20 AM            24,120 bangbang.wav
+03/20/1997  04:20 AM            13,468 bounce.wav
+03/20/1997  04:20 AM             2,410 c_bang.wav
+03/20/1997  04:20 AM            21,722 d_bang.wav
+03/20/1997  04:20 AM             6,376 gunfire.wav
+03/20/1997  04:20 AM             9,416 hum.wav
+03/20/1997  04:20 AM            54,192 level.wav
+03/20/1997  04:20 AM            21,824 p_bang.wav
+03/20/1997  04:20 AM             6,234 rev.wav
+03/20/1997  04:20 AM            31,534 shield.wav
+03/20/1997  04:20 AM             9,154 skid.wav
+03/20/1997  04:20 AM             2,588 s_bang.wav
+              12 File(s)        203,038 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\ntos\w32\ntgdi\printers\rasprint\tools\unitool
+
+03/20/1997  04:37 AM            14,566 unitool.inf
+               1 File(s)         14,566 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\nw\install\wksta
+
+03/20/1997  04:39 AM            48,072 nw.inf
+               1 File(s)         48,072 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\oleutest\letest\data
+
+07/12/2019  10:30 AM           955,965 tigernph.svg
+03/20/1997  04:47 AM           185,288 tigernph.wmf
+               2 File(s)      1,141,253 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\os2\doc
+
+03/20/1997  04:49 AM            11,708 fy92.ppt
+03/20/1997  04:49 AM            21,060 pownt.ppt
+               2 File(s)         32,768 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\sdktools\jetadmin\mohawk\wav
+
+03/20/1997  05:47 AM            15,920 chimes.wav
+03/20/1997  05:47 AM            15,118 explode.wav
+               2 File(s)         31,038 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\sdktools\mepsetup
+
+03/20/1997  05:08 AM               261 autorun.inf
+03/20/1997  05:08 AM             1,310 update.inf
+               2 File(s)          1,571 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\sdktools\rcpp
+
+03/20/1997  05:48 AM               168 pkeyw.inf
+               1 File(s)            168 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\sdktools\slmnew\util\setup\src
+
+03/20/1997  05:50 AM            14,833 slm.inf
+               1 File(s)         14,833 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\sdktools\vctools\pdb\oem\0.4\test
+
+05/19/1998  02:49 PM             2,457 TEST.PLG
+               1 File(s)          2,457 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\sdktools\vctools\rcdll
+
+03/20/1997  05:59 AM               168 pkeyw.inf
+               1 File(s)            168 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\tapi\dev\apps\tapitna
+
+03/20/1997  06:01 AM             1,792 tlocmgr.inf
+               1 File(s)          1,792 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\tapi\dev\apps\tapitna\ver.10
+
+03/20/1997  06:01 AM             1,654 tlocmgr.inf
+               1 File(s)          1,654 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\tapi\dev\apps\tapiupr
+
+03/20/1997  06:01 AM             1,228 dagger.inf
+               1 File(s)          1,228 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\tapi\dev\post14\override
+
+03/20/1997  06:01 AM             7,227 override.inf
+               1 File(s)          7,227 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\unimodem\new\mic
+
+03/20/1997  06:04 AM             1,649 sample.inf
+               1 File(s)          1,649 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\utils\windisk\doc
+
+03/20/1997  06:07 AM            13,321 windisk.ppt
+               1 File(s)         13,321 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\wangview\norway\install
+
+03/20/1997  06:08 AM            24,637 debug.inf
+03/20/1997  06:08 AM            24,635 imagevue.inf
+03/20/1997  06:08 AM            23,726 ms.inf
+03/20/1997  06:08 AM             3,671 wltwain.inf
+               4 File(s)         76,669 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\wangview\norway\ntfiles
+
+03/20/1997  06:08 AM            24,958 imagevue.inf
+03/20/1997  06:08 AM             1,118 imgsampl.vbp
+               2 File(s)         26,076 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\wangview\norway\samples
+
+03/20/1997  06:08 AM             1,118 imgsampl.vbp
+               1 File(s)          1,118 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windbg\driver\crash
+
+03/20/1997  06:10 AM            50,176 crash.wav
+               1 File(s)         50,176 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\cs423x\dll
+
+03/20/1997  06:16 AM               209 oemsetup.inf
+               1 File(s)            209 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\ess\bin\i386
+
+03/20/1997  06:16 AM               233 oemsetup.inf
+               1 File(s)            233 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\mpu401
+
+03/20/1997  06:16 AM               195 oemsetup.inf
+               1 File(s)            195 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\mvaudio\dll
+
+03/20/1997  06:16 AM               262 oemsetup.inf
+               1 File(s)            262 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\necsnd
+
+03/20/1997  06:16 AM               266 oemsetup.inf
+               1 File(s)            266 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\sndblst\dll
+
+03/20/1997  06:16 AM               241 oemsetup.inf
+               1 File(s)            241 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\drivers\sndsys32\dll
+
+03/20/1997  06:16 AM               274 oemsetup.inf
+               1 File(s)            274 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\mcivisca
+
+03/20/1997  06:16 AM               216 oemsetup.inf
+               1 File(s)            216 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\mcivisca\mcivisca
+
+03/20/1997  06:16 AM               878 mcivisca.inf
+               1 File(s)            878 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\msacm\g711
+
+03/20/1997  06:17 AM               188 oemsetup.inf
+               1 File(s)            188 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\msacm\gsm610
+
+03/20/1997  06:17 AM               176 oemsetup.inf
+               1 File(s)            176 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\msacm\imaadpcm
+
+03/20/1997  06:17 AM               168 oemsetup.inf
+               1 File(s)            168 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\msacm\msfilter
+
+03/20/1997  06:17 AM               169 oemsetup.inf
+               1 File(s)            169 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\samples\mcipionr
+
+03/20/1997  06:17 AM               178 oemsetup.inf
+               1 File(s)            178 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\sounds
+
+03/20/1997  06:18 AM            15,920 chimes.wav
+03/20/1997  06:18 AM            24,982 chord.wav
+03/20/1997  06:18 AM            11,598 ding.wav
+03/20/1997  06:18 AM            10,026 ringin.wav
+03/20/1997  06:18 AM             5,212 ringout.wav
+03/20/1997  06:18 AM            27,804 tada.wav
+               6 File(s)         95,542 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\synth
+
+03/20/1997  06:18 AM               258 oemsetup.inf
+               1 File(s)            258 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\test\playsnd
+
+03/20/1997  06:18 AM            13,868 ding.wav
+03/20/1997  06:18 AM            17,362 laser.wav
+03/20/1997  06:18 AM            59,210 siren.wav
+               3 File(s)         90,440 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\vidcap
+
+03/20/1997  06:18 AM               367 oemsetup.inf
+               1 File(s)            367 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\vidcap\bravado
+
+03/20/1997  06:18 AM               200 oemsetup.inf
+               1 File(s)            200 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\vidcap\msyuv
+
+03/20/1997  06:18 AM               182 oemsetup.inf
+               1 File(s)            182 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\media\vidcap\spigot
+
+03/20/1997  06:18 AM               190 oemsetup.inf
+               1 File(s)            190 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\opengl\scrsave\text3d
+
+03/20/1997  06:20 AM            14,681 default.str
+03/20/1997  06:20 AM               178 default2.str
+               2 File(s)         14,859 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\bom
+
+03/20/1997  06:24 AM               176 autorun.inf
+               1 File(s)            176 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\bom\autorun
+
+03/20/1997  06:24 AM             6,718 blip.wav
+03/20/1997  06:24 AM           135,062 ms.wav
+               2 File(s)        141,780 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\beta
+
+03/20/1997  06:25 AM            38,749 accounts.inf
+03/20/1997  06:25 AM            40,086 cairo.inf
+03/20/1997  06:25 AM            20,535 hardware.inf
+03/20/1997  06:25 AM             2,808 ipinfo.inf
+03/20/1997  06:25 AM             3,517 ipinfor.inf
+03/20/1997  06:25 AM            16,868 monitor.inf
+03/20/1997  06:25 AM            41,487 mstools.inf
+03/20/1997  06:25 AM            29,762 nbinfo.inf
+03/20/1997  06:25 AM            34,650 ncparam.inf
+03/20/1997  06:25 AM            21,349 ncpashel.inf
+03/20/1997  06:25 AM            44,284 netbond.inf
+03/20/1997  06:25 AM             3,544 netdefs.inf
+03/20/1997  06:25 AM            14,270 netdtect.inf
+03/20/1997  06:25 AM            45,410 oemnadap.inf
+03/20/1997  06:25 AM            39,739 oemnadar.inf
+03/20/1997  06:25 AM            42,301 oemnadd1.inf
+03/20/1997  06:25 AM            41,625 oemnadd2.inf
+03/20/1997  06:25 AM            27,150 oemnadd3.inf
+03/20/1997  06:25 AM            30,733 oemnadd4.inf
+03/20/1997  06:25 AM            32,628 oemnadde.inf
+03/20/1997  06:25 AM            27,744 oemnaddf.inf
+03/20/1997  06:25 AM            54,969 oemnaddi.inf
+03/20/1997  06:25 AM            32,644 oemnaddp.inf
+03/20/1997  06:25 AM           105,270 oemnadds.inf
+03/20/1997  06:25 AM            40,250 oemnaddt.inf
+03/20/1997  06:25 AM            41,585 oemnade2.inf
+03/20/1997  06:25 AM            41,596 oemnade3.inf
+03/20/1997  06:25 AM            30,665 oemnadee.inf
+03/20/1997  06:25 AM            46,053 oemnadep.inf
+03/20/1997  06:25 AM            43,586 oemnadin.inf
+03/20/1997  06:25 AM            24,349 oemnadlb.inf
+03/20/1997  06:25 AM            18,997 oemnadlm.inf
+03/20/1997  06:25 AM            21,348 oemnadlt.inf
+03/20/1997  06:25 AM            61,700 oemnadma.inf
+03/20/1997  06:25 AM            39,498 oemnadn1.inf
+03/20/1997  06:25 AM            40,574 oemnadn2.inf
+03/20/1997  06:25 AM            30,449 oemnadne.inf
+03/20/1997  06:25 AM            32,631 oemnadnf.inf
+03/20/1997  06:25 AM            41,964 oemnadni.inf
+03/20/1997  06:25 AM            31,705 oemnadnp.inf
+03/20/1997  06:25 AM            36,005 oemnadp3.inf
+03/20/1997  06:25 AM            32,849 oemnadp9.inf
+03/20/1997  06:25 AM            29,211 oemnads1.inf
+03/20/1997  06:25 AM            28,178 oemnadt2.inf
+03/20/1997  06:25 AM            44,333 oemnadtk.inf
+03/20/1997  06:25 AM            36,299 oemnadub.inf
+03/20/1997  06:25 AM            41,201 oemnadwd.inf
+03/20/1997  06:25 AM            41,808 oemnadxn.inf
+03/20/1997  06:25 AM            26,873 oemnsvbh.inf
+03/20/1997  06:25 AM            20,025 oemnsvbr.inf
+03/20/1997  06:25 AM            17,174 oemnsvcu.inf
+03/20/1997  06:25 AM            27,552 oemnsvdf.inf
+03/20/1997  06:25 AM            24,160 oemnsvdh.inf
+03/20/1997  06:25 AM            21,300 oemnsvdn.inf
+03/20/1997  06:25 AM            26,612 oemnsvft.inf
+03/20/1997  06:25 AM            18,018 oemnsvin.inf
+03/20/1997  06:25 AM            29,292 oemnsvir.inf
+03/20/1997  06:25 AM            26,124 oemnsvnb.inf
+03/20/1997  06:25 AM            52,787 oemnsvnw.inf
+03/20/1997  06:25 AM           331,203 oemnsvra.inf
+03/20/1997  06:25 AM            17,997 oemnsvrc.inf
+03/20/1997  06:25 AM            50,184 oemnsvri.inf
+03/20/1997  06:25 AM            39,174 oemnsvrr.inf
+03/20/1997  06:25 AM            25,364 oemnsvsa.inf
+03/20/1997  06:25 AM           108,468 oemnsvsm.inf
+03/20/1997  06:25 AM            33,806 oemnsvsn.inf
+03/20/1997  06:25 AM            21,232 oemnsvsp.inf
+03/20/1997  06:25 AM            36,758 oemnsvsv.inf
+03/20/1997  06:25 AM            24,548 oemnsvtp.inf
+03/20/1997  06:25 AM            23,700 oemnsvwi.inf
+03/20/1997  06:25 AM            21,619 oemnxpdl.inf
+03/20/1997  06:25 AM            63,275 oemnxpip.inf
+03/20/1997  06:25 AM            22,991 oemnxpnb.inf
+03/20/1997  06:25 AM            82,355 oemnxppp.inf
+03/20/1997  06:25 AM            24,927 oemnxps1.inf
+03/20/1997  06:25 AM            52,216 oemnxpsm.inf
+03/20/1997  06:25 AM            20,585 oemnxpst.inf
+03/20/1997  06:25 AM            79,228 oemnxptc.inf
+03/20/1997  06:25 AM            44,889 oemnxpxn.inf
+03/20/1997  06:25 AM            22,949 oemnxpxs.inf
+03/20/1997  06:25 AM             5,719 oemsetup.inf
+03/20/1997  06:25 AM            32,137 other.inf
+03/20/1997  06:25 AM             7,495 prnsetup.inf
+03/20/1997  06:25 AM            21,534 registry.inf
+03/20/1997  06:25 AM             2,529 sfmicons.inf
+03/20/1997  06:25 AM             9,182 sfmmap.inf
+03/20/1997  06:25 AM            17,768 subroutn.inf
+03/20/1997  06:25 AM            55,064 update.inf
+03/20/1997  06:25 AM           159,864 utility.inf
+03/20/1997  06:25 AM            30,845 video.inf
+              90 File(s)      3,448,478 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\beta\alpha
+
+03/20/1997  06:25 AM               119 netoemdh.inf
+03/20/1997  06:25 AM             9,431 oemnadzz.inf
+               2 File(s)          9,550 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\beta\i386
+
+03/20/1997  06:25 AM             3,889 netoemdh.inf
+03/20/1997  06:25 AM            30,510 oemnadam.inf
+03/20/1997  06:25 AM            42,406 oemnade1.inf
+03/20/1997  06:25 AM            30,631 oemnadem.inf
+03/20/1997  06:25 AM            32,835 oemnaden.inf
+03/20/1997  06:25 AM            30,606 oemnadfd.inf
+03/20/1997  06:25 AM            30,625 oemnadim.inf
+03/20/1997  06:25 AM            35,834 oemnadnm.inf
+03/20/1997  06:25 AM            27,152 oemnadpm.inf
+03/20/1997  06:25 AM            32,606 oemnadtm.inf
+03/20/1997  06:25 AM            30,578 oemnadum.inf
+03/20/1997  06:25 AM            33,420 oemnadwm.inf
+03/20/1997  06:25 AM            33,979 oemnadxm.inf
+03/20/1997  06:25 AM            25,363 oemnadzz.inf
+              14 File(s)        420,434 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\beta\mips
+
+03/20/1997  06:25 AM               119 netoemdh.inf
+03/20/1997  06:25 AM            42,405 oemnade1.inf
+03/20/1997  06:25 AM            20,656 oemnadsn.inf
+03/20/1997  06:25 AM            29,399 oemnadso.inf
+03/20/1997  06:25 AM             9,416 oemnadzz.inf
+               5 File(s)        101,995 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\beta\ppc
+
+03/20/1997  06:25 AM               422 netoemdh.inf
+03/20/1997  06:25 AM            42,405 oemnade1.inf
+03/20/1997  06:25 AM             9,395 oemnadzz.inf
+               3 File(s)         52,222 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\lmcd\alpha
+
+03/20/1997  06:25 AM                78 oemsetup.inf
+               1 File(s)             78 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\lmcd\i386
+
+03/20/1997  06:25 AM                78 oemsetup.inf
+               1 File(s)             78 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\lmcd\mips
+
+03/20/1997  06:25 AM                78 oemsetup.inf
+               1 File(s)             78 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\lmcd\ppc
+
+03/20/1997  06:25 AM                78 oemsetup.inf
+               1 File(s)             78 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\ntcd\alpha
+
+03/20/1997  06:25 AM                78 oemsetup.inf
+               1 File(s)             78 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\ntcd\i386
+
+03/20/1997  06:25 AM               176 oemnadxm.inf
+03/20/1997  06:25 AM               176 oemnadxn.inf
+03/20/1997  06:25 AM                76 oemsetup.inf
+               3 File(s)            428 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\ntcd\mips
+
+03/20/1997  06:25 AM               179 oemnadxm.inf
+03/20/1997  06:25 AM               179 oemnadxn.inf
+03/20/1997  06:25 AM                76 oemsetup.inf
+               3 File(s)            434 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\filelist\ntcd\ppc
+
+03/20/1997  06:25 AM               179 oemnadxm.inf
+03/20/1997  06:25 AM               179 oemnadxn.inf
+03/20/1997  06:25 AM                76 oemsetup.inf
+               3 File(s)            434 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\lmcd\alpha
+
+03/20/1997  06:25 AM             3,584 txtsetup.wdl
+03/20/1997  06:25 AM            18,831 wdlsetup.inf
+               2 File(s)         22,415 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\lmcd\i386
+
+03/20/1997  06:25 AM             3,487 txtsetup.wdl
+03/20/1997  06:25 AM            19,228 wdlsetup.inf
+               2 File(s)         22,715 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\lmcd\mips
+
+03/20/1997  06:25 AM             3,584 txtsetup.wdl
+03/20/1997  06:25 AM            19,058 wdlsetup.inf
+               2 File(s)         22,642 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\lmcd\ppc
+
+03/20/1997  06:25 AM             2,832 txtsetup.wdl
+03/20/1997  06:25 AM            19,058 wdlsetup.inf
+               2 File(s)         21,890 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\ntcd\alpha
+
+03/20/1997  06:25 AM             3,584 txtsetup.wdl
+03/20/1997  06:25 AM            18,831 wdlsetup.inf
+               2 File(s)         22,415 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\ntcd\i386
+
+03/20/1997  06:25 AM             3,487 txtsetup.wdl
+03/20/1997  06:25 AM            19,228 wdlsetup.inf
+               2 File(s)         22,715 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\ntcd\mips
+
+03/20/1997  06:25 AM             3,584 txtsetup.wdl
+03/20/1997  06:25 AM            19,058 wdlsetup.inf
+               2 File(s)         22,642 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\newinf\daytona\ntcd\ppc
+
+03/20/1997  06:25 AM             2,832 txtsetup.wdl
+03/20/1997  06:25 AM            19,058 wdlsetup.inf
+               2 File(s)         21,890 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\inf\win4\inf
+
+03/20/1997  06:25 AM             4,654 legacy.inf
+               1 File(s)          4,654 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\legacy
+
+03/20/1997  06:26 AM             3,673 legacy.inf
+               1 File(s)          3,673 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\oempre\devpre
+
+03/20/1997  06:26 AM             2,383 devpre.inf
+               1 File(s)          2,383 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\oempre\sysdiff
+
+03/20/1997  06:26 AM             2,500 sysdiff.inf
+               1 File(s)          2,500 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\setup\srvpack2
+
+03/20/1997  06:26 AM            21,978 update.inf
+               1 File(s)         21,978 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\shell\accesory\netclip
+
+03/20/1997  06:28 AM             2,464 netclip.inf
+               1 File(s)          2,464 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\shell\accesory\winchat
+
+03/20/1997  06:29 AM            10,026 ringin.wav
+03/20/1997  06:29 AM             5,212 ringout.wav
+               2 File(s)         15,238 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\shell\lmui\shareui
+
+03/20/1997  06:34 AM             1,726 shareui.inf
+               1 File(s)          1,726 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\shell\lmui\shareui.new
+
+03/20/1997  06:34 AM             1,726 shareui.inf
+               1 File(s)          1,726 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\private\windows\spooler\printui
+
+07/12/2019  10:27 AM            74,220 inkscape windows nt logo.svg
+03/20/1997  06:37 AM            21,078 logo.wmf
+               2 File(s)         95,298 bytes
+
+ Directory of \Windows Leaked Source\windows_nt_4_source_code_IK\nt4\public\oak\bin
+
+03/20/1997  05:48 AM            59,167 setup16.inf
+               1 File(s)         59,167 bytes
+
+ Directory of \Windows Leaked Source\Word-1.1a-CHM-Distribution\Word 1.1a CHM Distribution\Opus
+
+12/06/2013  03:09 AM               718 fedt.str
+12/06/2013  03:09 AM            30,742 opusfull.str
+12/06/2013  03:09 AM             5,936 sdm.str
+               3 File(s)         37,396 bytes
+
+     Total Files Listed:
+             519 File(s)     33,990,515 bytes
